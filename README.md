@@ -48,4 +48,4 @@ $config | 熔断器配置, 可覆盖掉默认配置, 默认array() |
 $failureFallback | run方法的异常回调方法, 默认null |
 
 ## TmProxy的单元测试报告
-![单元测试报告](https://htmlpreview.github.io/?https://raw.githubusercontent.com/wolfwang1/tm_proxy/master/assets/index.html)
+[单元测试报告](https://htmlpreview.github.io/?https://raw.githubusercontent.com/wolfwang1/tm_proxy/master/assets/index.html)
