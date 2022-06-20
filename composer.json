@@ -1,0 +1,21 @@
+{
+    "name": "g7/tmproxy",
+    "description": "php circuit breaker and data cache",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wolf Wang",
+            "email": "wangyu@g7.com.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">= 5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "TmProxy\\TmBreaker\\": "src/"
+        }
+    }
+}
